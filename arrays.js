@@ -196,5 +196,6 @@ console.log(arrindexOf.indexOf(1,3));
 // isArray()
 // 
 
+// returna true se for um array, false se nao for
 console.log(Array.isArray(arrindexOf));
 
